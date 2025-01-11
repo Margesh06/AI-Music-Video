@@ -1,0 +1,994 @@
+{
+    "data": [
+        {
+            "id": "17518",
+            "type": "songs",
+            "attributes": {
+                "bpm": 90,
+                "description": "A low energy, hip hop song that is best described as chill and reflective. Drums and electronic drums are the primary instruments in this track.",
+                "energy": "low",
+                "explicit": false,
+                "key": {
+                    "name": "Ab/G#",
+                    "mode": "minor"
+                },
+                "lyrics": "",
+                "playlist_ids": [
+                    359241,
+                    120348,
+                    455682,
+                    7457,
+                    455678,
+                    128208,
+                    226180,
+                    413563,
+                    282353,
+                    70491,
+                    393409,
+                    511391,
+                    54,
+                    525016,
+                    413558,
+                    529979
+                ],
+                "stems": null,
+                "tags": {
+                    "characteristic": [
+                        "Retro",
+                        "Mellow",
+                        "Cruising",
+                        "Atmospheric",
+                        "Dreamy"
+                    ],
+                    "genre": [
+                        "Hip Hop",
+                        "Lo-Fi"
+                    ],
+                    "instrument": [
+                        "Drums",
+                        "Electronic Drums",
+                        "Bass",
+                        "Bass Guitar",
+                        "Synth",
+                        "Piano"
+                    ],
+                    "mood": [
+                        "Chill",
+                        "Reflective",
+                        "Hopeful",
+                        "Happy",
+                        "Romantic"
+                    ]
+                },
+                "title": "Penn Station"
+            },
+            "relationships": {
+                "artists": {
+                    "data": [
+                        {
+                            "id": "338",
+                            "type": "artists"
+                        }
+                    ]
+                },
+                "audio_files": {
+                    "data": [
+                        {
+                            "id": "76632",
+                            "type": "audio_files"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "17550",
+            "type": "songs",
+            "attributes": {
+                "bpm": 137,
+                "description": "A medium energy, electronic song that is best described as fun and happy. Synth and bass are the primary instruments in this track.",
+                "energy": "medium",
+                "explicit": false,
+                "key": {
+                    "name": "F",
+                    "mode": "major"
+                },
+                "lyrics": "",
+                "playlist_ids": [
+                    455680,
+                    3244,
+                    23892,
+                    171199,
+                    383779,
+                    444615,
+                    262644,
+                    121857,
+                    523906,
+                    54
+                ],
+                "stems": null,
+                "tags": {
+                    "characteristic": [
+                        "Retro",
+                        "Upbeat",
+                        "Soaring",
+                        "Cruising",
+                        "Dancey"
+                    ],
+                    "genre": [
+                        "Indie",
+                        "Pop",
+                        "Electronic",
+                        "Synthwave"
+                    ],
+                    "instrument": [
+                        "Synth",
+                        "Bass",
+                        "Synth Bass",
+                        "Drums",
+                        "Electronic Drums",
+                        "Guitar",
+                        "Electric Guitar"
+                    ],
+                    "mood": [
+                        "Fun",
+                        "Happy",
+                        "Quirky",
+                        "Romantic"
+                    ]
+                },
+                "title": "Wilder"
+            },
+            "relationships": {
+                "artists": {
+                    "data": [
+                        {
+                            "id": "320",
+                            "type": "artists"
+                        }
+                    ]
+                },
+                "audio_files": {
+                    "data": [
+                        {
+                            "id": "76802",
+                            "type": "audio_files"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "17542",
+            "type": "songs",
+            "attributes": {
+                "bpm": 125,
+                "description": "A medium energy, rock song that is best described as fun and happy. Guitar and electric guitar are the primary instruments in this track.",
+                "energy": "medium",
+                "explicit": false,
+                "key": {
+                    "name": "A",
+                    "mode": "major"
+                },
+                "lyrics": "",
+                "playlist_ids": [
+                    5,
+                    26175,
+                    25020,
+                    391796,
+                    19,
+                    254377,
+                    73,
+                    8006,
+                    511391,
+                    54
+                ],
+                "stems": null,
+                "tags": {
+                    "characteristic": [
+                        "Cruising",
+                        "Rebellious",
+                        "Upbeat",
+                        "Dynamic",
+                        "Retro"
+                    ],
+                    "genre": [
+                        "Rock",
+                        "Corporate",
+                        "Pop",
+                        "Indie"
+                    ],
+                    "instrument": [
+                        "Guitar",
+                        "Electric Guitar",
+                        "Bass",
+                        "Bass Guitar",
+                        "Drums",
+                        "Drum Kit",
+                        "Synth"
+                    ],
+                    "mood": [
+                        "Fun",
+                        "Happy"
+                    ]
+                },
+                "title": "Feelin\u2019 Good"
+            },
+            "relationships": {
+                "artists": {
+                    "data": [
+                        {
+                            "id": "675",
+                            "type": "artists"
+                        }
+                    ]
+                },
+                "audio_files": {
+                    "data": [
+                        {
+                            "id": "76748",
+                            "type": "audio_files"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "17568",
+            "type": "songs",
+            "attributes": {
+                "bpm": 150,
+                "description": "A very low energy, acoustic song that is best described as calm and reflective. Guitar and acoustic guitar are the primary instruments in this track.",
+                "energy": "very_low",
+                "explicit": false,
+                "key": {
+                    "name": "A",
+                    "mode": "major"
+                },
+                "lyrics": "",
+                "playlist_ids": [
+                    41282,
+                    394081,
+                    321774,
+                    433868,
+                    282080,
+                    73,
+                    48457,
+                    54,
+                    522578
+                ],
+                "stems": null,
+                "tags": {
+                    "characteristic": [
+                        "Atmospheric",
+                        "Beautiful",
+                        "Mellow",
+                        "Minimal",
+                        "Dreamy"
+                    ],
+                    "genre": [
+                        "Acoustic",
+                        "Folk",
+                        "Indie",
+                        "Soundtrack / Cinematic",
+                        "Underscore"
+                    ],
+                    "instrument": [
+                        "Guitar",
+                        "Acoustic Guitar",
+                        "Steel Guitar",
+                        "Ambient Tones"
+                    ],
+                    "mood": [
+                        "Calm",
+                        "Reflective",
+                        "Romantic",
+                        "Hopeful",
+                        "Inspiring"
+                    ]
+                },
+                "title": "Threads Of Gold"
+            },
+            "relationships": {
+                "artists": {
+                    "data": [
+                        {
+                            "id": "284",
+                            "type": "artists"
+                        }
+                    ]
+                },
+                "audio_files": {
+                    "data": [
+                        {
+                            "id": "76915",
+                            "type": "audio_files"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "17491",
+            "type": "songs",
+            "attributes": {
+                "bpm": 110,
+                "description": "A low energy, electronic song that is best described as fun and happy. Piano and synth are the primary instruments in this track.",
+                "energy": "low",
+                "explicit": false,
+                "key": {
+                    "name": "D",
+                    "mode": "major"
+                },
+                "lyrics": "",
+                "playlist_ids": [
+                    5,
+                    439284,
+                    477807,
+                    391796,
+                    136695,
+                    3244,
+                    23892,
+                    171199,
+                    262644,
+                    121857,
+                    54,
+                    136689
+                ],
+                "stems": null,
+                "tags": {
+                    "characteristic": [
+                        "Upbeat",
+                        "Cruising",
+                        "Soaring",
+                        "Retro",
+                        "Atmospheric"
+                    ],
+                    "genre": [
+                        "Corporate",
+                        "Indie",
+                        "Electronic",
+                        "Pop",
+                        "Ballad"
+                    ],
+                    "instrument": [
+                        "Piano",
+                        "Synth",
+                        "Guitar",
+                        "Electric Guitar",
+                        "Drums",
+                        "Electronic Drums",
+                        "Bass",
+                        "Synth Bass"
+                    ],
+                    "mood": [
+                        "Fun",
+                        "Happy",
+                        "Hopeful",
+                        "Inspiring",
+                        "Chill",
+                        "Reflective",
+                        "Romantic"
+                    ]
+                },
+                "title": "Oceanside"
+            },
+            "relationships": {
+                "artists": {
+                    "data": [
+                        {
+                            "id": "675",
+                            "type": "artists"
+                        }
+                    ]
+                },
+                "audio_files": {
+                    "data": [
+                        {
+                            "id": "76496",
+                            "type": "audio_files"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "17565",
+            "type": "songs",
+            "attributes": {
+                "bpm": 85,
+                "description": "A medium energy, rock song that is best described as angry and fun. Guitar and electric guitar are the primary instruments in this track.",
+                "energy": "medium",
+                "explicit": false,
+                "key": {
+                    "name": "D",
+                    "mode": "major"
+                },
+                "lyrics": "",
+                "playlist_ids": [
+                    5,
+                    3510,
+                    25020,
+                    426739,
+                    451519,
+                    8006,
+                    54
+                ],
+                "stems": null,
+                "tags": {
+                    "characteristic": [
+                        "Rebellious",
+                        "Aggressive",
+                        "Dynamic",
+                        "Intense",
+                        "Chaotic"
+                    ],
+                    "genre": [
+                        "Corporate",
+                        "Rock",
+                        "Hard Rock",
+                        "Southern Rock"
+                    ],
+                    "instrument": [
+                        "Guitar",
+                        "Electric Guitar",
+                        "Drums",
+                        "Drum Kit",
+                        "Bass",
+                        "Bass Guitar"
+                    ],
+                    "mood": [
+                        "Angry",
+                        "Fun"
+                    ]
+                },
+                "title": "Rebel"
+            },
+            "relationships": {
+                "artists": {
+                    "data": [
+                        {
+                            "id": "675",
+                            "type": "artists"
+                        }
+                    ]
+                },
+                "audio_files": {
+                    "data": [
+                        {
+                            "id": "76899",
+                            "type": "audio_files"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "17529",
+            "type": "songs",
+            "attributes": {
+                "bpm": 93,
+                "description": "A low energy, hip hop song that is best described as chill and fun. Piano and organ are the primary instruments in this track.",
+                "energy": "low",
+                "explicit": false,
+                "key": {
+                    "name": "Eb/D#",
+                    "mode": "minor"
+                },
+                "lyrics": "",
+                "playlist_ids": [
+                    359241,
+                    3510,
+                    455678,
+                    282419,
+                    128208,
+                    70491,
+                    511391,
+                    54,
+                    525016
+                ],
+                "stems": null,
+                "tags": {
+                    "characteristic": [
+                        "Dancey",
+                        "Cruising",
+                        "Retro",
+                        "Soulful"
+                    ],
+                    "genre": [
+                        "Hip Hop",
+                        "Rap",
+                        "R&B"
+                    ],
+                    "instrument": [
+                        "Piano",
+                        "Organ",
+                        "Drums",
+                        "Drum Kit",
+                        "Electronic Drums",
+                        "Bass",
+                        "Synth Bass",
+                        "Synth"
+                    ],
+                    "mood": [
+                        "Chill",
+                        "Fun",
+                        "Romantic"
+                    ]
+                },
+                "title": "Third Call For Bird Ball"
+            },
+            "relationships": {
+                "artists": {
+                    "data": [
+                        {
+                            "id": "695",
+                            "type": "artists"
+                        }
+                    ]
+                },
+                "audio_files": {
+                    "data": [
+                        {
+                            "id": "76682",
+                            "type": "audio_files"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "17530",
+            "type": "songs",
+            "attributes": {
+                "bpm": 100,
+                "description": "A low energy, score song that is best described as hopeful and inspiring. Strings and violin are the primary instruments in this track.",
+                "energy": "low",
+                "explicit": false,
+                "key": {
+                    "name": "D",
+                    "mode": "major"
+                },
+                "lyrics": "",
+                "playlist_ids": [
+                    282023,
+                    426744,
+                    23883,
+                    43,
+                    4,
+                    42797,
+                    54
+                ],
+                "stems": null,
+                "tags": {
+                    "characteristic": [
+                        "Beautiful",
+                        "Atmospheric",
+                        "Dynamic",
+                        "Sophisticated",
+                        "Soaring"
+                    ],
+                    "genre": [
+                        "Cinematic",
+                        "Modern Orchestral",
+                        "Soundtrack / Cinematic",
+                        "Score",
+                        "Underscore"
+                    ],
+                    "instrument": [
+                        "Strings",
+                        "Violin",
+                        "Cello",
+                        "Piano",
+                        "Synth"
+                    ],
+                    "mood": [
+                        "Hopeful",
+                        "Inspiring",
+                        "Reflective",
+                        "Sad"
+                    ]
+                },
+                "title": "Unbroken"
+            },
+            "relationships": {
+                "artists": {
+                    "data": [
+                        {
+                            "id": "212",
+                            "type": "artists"
+                        }
+                    ]
+                },
+                "audio_files": {
+                    "data": [
+                        {
+                            "id": "76687",
+                            "type": "audio_files"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "17501",
+            "type": "songs",
+            "attributes": {
+                "bpm": 74,
+                "description": "A medium energy, rock song that is best described as hopeful and inspiring. Guitar and electric guitar are the primary instruments in this track.",
+                "energy": "medium",
+                "explicit": false,
+                "key": {
+                    "name": "A",
+                    "mode": "major"
+                },
+                "lyrics": "",
+                "playlist_ids": [
+                    3510,
+                    26175,
+                    394081,
+                    128211,
+                    375663,
+                    19,
+                    254377,
+                    4,
+                    171199,
+                    73,
+                    48457,
+                    54
+                ],
+                "stems": null,
+                "tags": {
+                    "characteristic": [
+                        "Building",
+                        "Dynamic",
+                        "Upbeat",
+                        "Soaring"
+                    ],
+                    "genre": [
+                        "Indie",
+                        "Pop",
+                        "Rock",
+                        "Alternative",
+                        "Cinematic",
+                        "Soundtrack / Cinematic"
+                    ],
+                    "instrument": [
+                        "Guitar",
+                        "Electric Guitar",
+                        "Drums",
+                        "Drum Kit",
+                        "Bass",
+                        "Bass Guitar",
+                        "Organ",
+                        "Synth",
+                        "Electronic Drums"
+                    ],
+                    "mood": [
+                        "Hopeful",
+                        "Inspiring",
+                        "Happy",
+                        "Reflective",
+                        "Romantic"
+                    ]
+                },
+                "title": "Perseverance"
+            },
+            "relationships": {
+                "artists": {
+                    "data": [
+                        {
+                            "id": "432",
+                            "type": "artists"
+                        }
+                    ]
+                },
+                "audio_files": {
+                    "data": [
+                        {
+                            "id": "76542",
+                            "type": "audio_files"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "17272",
+            "type": "songs",
+            "attributes": {
+                "bpm": 76,
+                "description": "A medium energy, pop song that is best described as hopeful and inspiring. Guitar and acoustic guitar are the primary instruments in this track.",
+                "energy": "medium",
+                "explicit": false,
+                "key": {
+                    "name": "B",
+                    "mode": "major"
+                },
+                "lyrics": "",
+                "playlist_ids": [
+                    3510,
+                    439283,
+                    178742,
+                    439284,
+                    375663,
+                    138050,
+                    25990,
+                    380837,
+                    123482,
+                    25989,
+                    73,
+                    178740,
+                    383779,
+                    70540,
+                    225657,
+                    511387,
+                    136689
+                ],
+                "stems": null,
+                "tags": {
+                    "characteristic": [
+                        "Building",
+                        "Atmospheric",
+                        "Soaring",
+                        "Upbeat",
+                        "Dynamic"
+                    ],
+                    "genre": [
+                        "Indie",
+                        "Acoustic",
+                        "Country",
+                        "Pop",
+                        "Corporate"
+                    ],
+                    "instrument": [
+                        "Guitar",
+                        "Acoustic Guitar",
+                        "Electric Guitar",
+                        "Synth",
+                        "Ambient Tones",
+                        "Bass",
+                        "Synth Bass",
+                        "Drums",
+                        "Electronic Drums",
+                        "Piano"
+                    ],
+                    "mood": [
+                        "Hopeful",
+                        "Inspiring",
+                        "Happy",
+                        "Reflective",
+                        "Romantic"
+                    ]
+                },
+                "title": "City Of Angels"
+            },
+            "relationships": {
+                "artists": {
+                    "data": [
+                        {
+                            "id": "675",
+                            "type": "artists"
+                        }
+                    ]
+                },
+                "audio_files": {
+                    "data": [
+                        {
+                            "id": "75186",
+                            "type": "audio_files"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "included": [
+        {
+            "id": "338",
+            "type": "artists",
+            "attributes": {
+                "image": "https://soundstripe-production.imgix.net/uploads/artist/338/pic/ghostbeatz_soundstripe.png?w=100&h=100",
+                "name": "Ghost Beatz"
+            }
+        },
+        {
+            "id": "76632",
+            "type": "audio_files",
+            "attributes": {
+                "description": "Background Vocals + Music [Primary]",
+                "duration": 215.88,
+                "instrumental": true,
+                "song_id": "17518",
+                "versions": {
+                    "mp3": "https://cdn.soundstripe.com/uploads/audio_file/fbb66fb3d447424ba6484b9326503af1/watermarked_mp3_GHOSTBEATZ_PennStation_Full.mp3?key=a8c8d378-f558-45f3-9694-bd6ed1831aa8&token=1737161221_7ad19be4ef31523fc787bbb322f9fcb10461d6cc94bdd9a09e2581d4406ceae7",
+                    "wav": null
+                }
+            }
+        },
+        {
+            "id": "320",
+            "type": "artists",
+            "attributes": {
+                "image": "https://soundstripe-production.imgix.net/uploads/artist/320/pic/wayfair-1.jpeg?w=100&h=100",
+                "name": "Wayfair"
+            }
+        },
+        {
+            "id": "76802",
+            "type": "audio_files",
+            "attributes": {
+                "description": "Instrumental [Primary]",
+                "duration": 93.83,
+                "instrumental": true,
+                "song_id": "17550",
+                "versions": {
+                    "mp3": "https://cdn.soundstripe.com/uploads/audio_file/73e63da67dde470ca06ced6a41a38bf1/watermarked_mp3_Wayfair_Wilder_Full.mp3?key=a8c8d378-f558-45f3-9694-bd6ed1831aa8&token=1737161224_d09b10287afeea9c231eb5bb4f0dd3b263f351861a4ad6544dd1fbb43dd0ce65",
+                    "wav": null
+                }
+            }
+        },
+        {
+            "id": "675",
+            "type": "artists",
+            "attributes": {
+                "image": "https://soundstripe-production.imgix.net/uploads/artist/675/pic/46cd382412.jpg?w=100&h=100",
+                "name": "LND\u00d6"
+            }
+        },
+        {
+            "id": "76748",
+            "type": "audio_files",
+            "attributes": {
+                "description": "Instrumental [Primary]",
+                "duration": 141.89,
+                "instrumental": true,
+                "song_id": "17542",
+                "versions": {
+                    "mp3": "https://cdn.soundstripe.com/uploads/audio_file/485646bb280d44b8b42b6ce34b305bf1/watermarked_mp3_LNDO%CC%88_FeelinGood_Full.mp3?key=a8c8d378-f558-45f3-9694-bd6ed1831aa8&token=1737161224_5ed9b8a0e20de0d9aef6d92fc9b341582b7dc6184945e439fa5f4820831005c2",
+                    "wav": null
+                }
+            }
+        },
+        {
+            "id": "284",
+            "type": "artists",
+            "attributes": {
+                "image": "https://soundstripe-production.imgix.net/uploads/artist/284/pic/87f1096ef3.jpg?w=100&h=100",
+                "name": "Alsever Lake"
+            }
+        },
+        {
+            "id": "76915",
+            "type": "audio_files",
+            "attributes": {
+                "description": "Instrumental [Primary]",
+                "duration": 234.93,
+                "instrumental": true,
+                "song_id": "17568",
+                "versions": {
+                    "mp3": "https://cdn.soundstripe.com/uploads/audio_file/c1f2ecc4228246708e4827558f017af1/watermarked_mp3_AlseverLake_ThreadsOfGold_Full.mp3?key=a8c8d378-f558-45f3-9694-bd6ed1831aa8&token=1737161226_ef7a811f845d1af7c391af60fb672d533930ae439e7c964c9bc01493cd69be49",
+                    "wav": null
+                }
+            }
+        },
+        {
+            "id": "76496",
+            "type": "audio_files",
+            "attributes": {
+                "description": "Instrumental [Primary]",
+                "duration": 177.23,
+                "instrumental": true,
+                "song_id": "17491",
+                "versions": {
+                    "mp3": "https://cdn.soundstripe.com/uploads/audio_file/c9f9e2cedbbb47518f7bc242674ffcf1/watermarked_mp3_LNDO%CC%88_Oceanside_Full.mp3?key=a8c8d378-f558-45f3-9694-bd6ed1831aa8&token=1737161218_0638086f637eec4b80c0f57f8f33192d1a3ec6caed7e7e18e3d61d95c4a4fb0e",
+                    "wav": null
+                }
+            }
+        },
+        {
+            "id": "76899",
+            "type": "audio_files",
+            "attributes": {
+                "description": "Instrumental [Primary]",
+                "duration": 161.86,
+                "instrumental": true,
+                "song_id": "17565",
+                "versions": {
+                    "mp3": "https://cdn.soundstripe.com/uploads/audio_file/0a547a0923eb411782a2797f396724f1/watermarked_mp3_LNDO%CC%88_REBEL_Full.mp3?key=a8c8d378-f558-45f3-9694-bd6ed1831aa8&token=1737161226_3fa599190e92b9a1807ededeb8cb9bf29dcf41002426c54b513fcc1a4667ff26",
+                    "wav": null
+                }
+            }
+        },
+        {
+            "id": "695",
+            "type": "artists",
+            "attributes": {
+                "image": "https://soundstripe-production.imgix.net/uploads/artist/695/pic/18ac8cee11.jpg?w=100&h=100",
+                "name": "Tony Sopiano"
+            }
+        },
+        {
+            "id": "76682",
+            "type": "audio_files",
+            "attributes": {
+                "description": "Instrumental [Primary]",
+                "duration": 189.97,
+                "instrumental": true,
+                "song_id": "17529",
+                "versions": {
+                    "mp3": "https://cdn.soundstripe.com/uploads/audio_file/db81417106e443e28d42359d3578f5f1/watermarked_mp3_TonySopiano_ThirdCallForBirdBall_Full.mp3?key=a8c8d378-f558-45f3-9694-bd6ed1831aa8&token=1737161222_1f7457b02e7c395cd59a3cdd50929bfa5e2bc7238141052bd60bb1c0a40d1a11",
+                    "wav": null
+                }
+            }
+        },
+        {
+            "id": "212",
+            "type": "artists",
+            "attributes": {
+                "image": "https://soundstripe-production.imgix.net/uploads/artist/212/pic/cody-martin.jpeg?w=100&h=100",
+                "name": "Cody Martin"
+            }
+        },
+        {
+            "id": "76687",
+            "type": "audio_files",
+            "attributes": {
+                "description": "Instrumental [Primary]",
+                "duration": 190.17,
+                "instrumental": true,
+                "song_id": "17530",
+                "versions": {
+                    "mp3": "https://cdn.soundstripe.com/uploads/audio_file/e37496152ba841f9b54299fa41678cf1/watermarked_mp3_CodyMartin_Unbroken_Full.mp3?key=a8c8d378-f558-45f3-9694-bd6ed1831aa8&token=1737161222_1ab7b8d04553fff6fe68c94ecbcf91d427d7ce8d092fd66e55fb93922a9b3f4a",
+                    "wav": null
+                }
+            }
+        },
+        {
+            "id": "432",
+            "type": "artists",
+            "attributes": {
+                "image": "https://soundstripe-production.imgix.net/uploads/artist/432/pic/image-from-ios.jpeg?w=100&h=100",
+                "name": "Reveille"
+            }
+        },
+        {
+            "id": "76542",
+            "type": "audio_files",
+            "attributes": {
+                "description": "Instrumental [Primary]",
+                "duration": 163.29,
+                "instrumental": true,
+                "song_id": "17501",
+                "versions": {
+                    "mp3": "https://cdn.soundstripe.com/uploads/audio_file/406271695c2b48f1bb5d6e310276d5f1/watermarked_mp3_Reveille_Perseverance_Full.mp3?key=a8c8d378-f558-45f3-9694-bd6ed1831aa8&token=1737161219_7762305d5d5afb6de75da0de5dbfe039e0a77125db3d76930618025050a5df07",
+                    "wav": null
+                }
+            }
+        },
+        {
+            "id": "75186",
+            "type": "audio_files",
+            "attributes": {
+                "description": "Background Vocals + Music [Primary]",
+                "duration": 173.88,
+                "instrumental": true,
+                "song_id": "17272",
+                "versions": {
+                    "mp3": "https://cdn.soundstripe.com/uploads/audio_file/5121edf48aab4a2d972b2701b29273f1/watermarked_mp3_LNDO%CC%88_CityOfAngels_Full.mp3?key=a8c8d378-f558-45f3-9694-bd6ed1831aa8&token=1737161199_57fc3d68efb478b398e3d3b3d14dedfe2b037f73f513259a0e727cd75291f5f0",
+                    "wav": null
+                }
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.soundstripe.com/v1/songs?limit=3&page%5Bnumber%5D=1&page%5Bsize%5D=10&search=give+me+horror+scene+video",
+        "first": "https://api.soundstripe.com/v1/songs?limit=3&page%5Bnumber%5D=1&page%5Bsize%5D=10&search=give+me+horror+scene+video",
+        "prev": null,
+        "next": "https://api.soundstripe.com/v1/songs?limit=3&page%5Bnumber%5D=2&page%5Bsize%5D=10&search=give+me+horror+scene+video",
+        "last": "https://api.soundstripe.com/v1/songs?limit=3&page%5Bnumber%5D=1080&page%5Bsize%5D=10&search=give+me+horror+scene+video",
+        "meta": {
+            "total_count": 10793
+        }
+    }
+}
