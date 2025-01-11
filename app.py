@@ -42,6 +42,8 @@ def download_video_from_pexels(query, download_path):
         video_file_path = os.path.join(download_path, f"{query}_video.mp4")
 
         video_data = requests.get(video_url).content
+        with open(video_file_path, "wb") as video_file:
+            video_file.write(video_data)
 
         re_encoded_video = re_encode_video(video_file_path)
         return re_encoded_video
