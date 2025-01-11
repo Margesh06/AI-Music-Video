@@ -2,4 +2,4 @@ flask
 flask-cors
 ffmpeg-python
 requests
-moviepy
+moviepy==1.0.3
